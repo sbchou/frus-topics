@@ -1,0 +1,6 @@
+Code to perform topic modelling on the FRUS (Foreign Relations of the United States) documents.
+
+Note that you need the passwd.py file to access the DB (not committed for security reasons).
+
+
+
